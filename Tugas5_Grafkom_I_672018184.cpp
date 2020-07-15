@@ -12,7 +12,7 @@ void init(void);
 void display(void);
 void keyboard(unsigned char, int, int);
 void ukuran(int, int);
-
+//sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 int is_depth;
 
 int main(int argc, char **argv)
